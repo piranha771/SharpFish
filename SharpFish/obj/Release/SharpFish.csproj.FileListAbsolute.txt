@@ -1,0 +1,14 @@
+D:\Dropbox\SharpFish\SharpFish\SharpFish\bin\Release\SharpFish.dll
+D:\Dropbox\SharpFish\SharpFish\SharpFish\bin\Release\SharpFish.pdb
+D:\Dropbox\SharpFish\SharpFish\SharpFish\obj\Release\SharpFish.dll
+D:\Dropbox\SharpFish\SharpFish\SharpFish\obj\Release\SharpFish.pdb
+C:\Users\Piranha\Dropbox\SharpFish\SharpFish\SharpFish\bin\Release\SharpFish.dll
+C:\Users\Piranha\Dropbox\SharpFish\SharpFish\SharpFish\bin\Release\SharpFish.pdb
+C:\Users\Piranha\Dropbox\SharpFish\SharpFish\SharpFish\obj\Release\SharpFish.csprojResolveAssemblyReference.cache
+C:\Users\Piranha\Dropbox\SharpFish\SharpFish\SharpFish\obj\Release\SharpFish.dll
+C:\Users\Piranha\Dropbox\SharpFish\SharpFish\SharpFish\obj\Release\SharpFish.pdb
+D:\Dropbox\Projekte\SharpFish\SharpFish\SharpFish\bin\Release\SharpFish.dll
+D:\Dropbox\Projekte\SharpFish\SharpFish\SharpFish\bin\Release\SharpFish.pdb
+D:\Dropbox\Projekte\SharpFish\SharpFish\SharpFish\obj\Release\SharpFish.csprojResolveAssemblyReference.cache
+D:\Dropbox\Projekte\SharpFish\SharpFish\SharpFish\obj\Release\SharpFish.dll
+D:\Dropbox\Projekte\SharpFish\SharpFish\SharpFish\obj\Release\SharpFish.pdb

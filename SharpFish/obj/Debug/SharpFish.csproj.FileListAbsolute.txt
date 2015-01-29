@@ -1,0 +1,10 @@
+D:\Dropbox\SharpFish\SharpFish\SharpFish\bin\Debug\SharpFish.dll
+D:\Dropbox\SharpFish\SharpFish\SharpFish\bin\Debug\SharpFish.pdb
+D:\Dropbox\SharpFish\SharpFish\SharpFish\obj\Debug\SharpFish.dll
+D:\Dropbox\SharpFish\SharpFish\SharpFish\obj\Debug\SharpFish.pdb
+D:\Dropbox\SharpFish\SharpFish\SharpFish\obj\Debug\SharpFish.csprojResolveAssemblyReference.cache
+C:\Users\Piranha\Dropbox\SharpFish\SharpFish\SharpFish\bin\Debug\SharpFish.dll
+C:\Users\Piranha\Dropbox\SharpFish\SharpFish\SharpFish\bin\Debug\SharpFish.pdb
+C:\Users\Piranha\Dropbox\SharpFish\SharpFish\SharpFish\obj\Debug\SharpFish.csprojResolveAssemblyReference.cache
+C:\Users\Piranha\Dropbox\SharpFish\SharpFish\SharpFish\obj\Debug\SharpFish.dll
+C:\Users\Piranha\Dropbox\SharpFish\SharpFish\SharpFish\obj\Debug\SharpFish.pdb

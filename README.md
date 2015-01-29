@@ -1,2 +1,2 @@
 # SharpFish
-A simple way to control your Fischertechnik Serial Interface
+A simple C# library to control your Fischertechnik Serial Interface
